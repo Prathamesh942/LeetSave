@@ -69,3 +69,8 @@ body {
   top: 60px;
   border: 1px solid rgb(118, 87, 255);
 }
+
+.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
