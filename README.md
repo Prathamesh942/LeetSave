@@ -27,4 +27,3 @@ The LeetCode Discuss Post Saver Chrome Extension allows users to save and manage
 4. Click the "Save Post" button and enter a title for the post.
 5. View saved posts in the popup and remove them if necessary.
 
-<a href="https://www.buymeacoffee.com/prathamesh94" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
